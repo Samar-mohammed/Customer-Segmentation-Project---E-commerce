@@ -46,15 +46,6 @@ Here’s a Power BI dashboard created to visually explore key metrics and custom
 - **🧑‍🤝‍🧑 Customer Gender Breakdown**: Distribution of male vs female customers.
 - **📋 Customer Coupon Transaction Table**: Displays individual user behavior.
 
----
 
-## 🧠 Cluster Interpretation & Recommendations
-
-| Cluster | Characteristics | Strategy |
-|--------|------------------|----------|
-| 0 | High transactions | Reward loyalty with exclusive offers |
-| 1 | Many unique coupons | Targeted discounts and cashback |
-| 2 | Moderate activity | Personalized recommendations |
-| 3 | Low engagement | Win-back campaigns with strong incentives |
 
 ---
