@@ -35,7 +35,7 @@ This project involves customer segmentation using K-Means clustering based on cu
 
 Here’s a Power BI dashboard created to visually explore key metrics and customer behavior:
 
-![Customer Segmentation Dashboard]()
+![E-commerce Insight](https://github.com/Samar-mohammed/Customer-Segmentation-Project---E-commerce/blob/main/E-commerce.png?raw=true)
 
 ### 📊 Highlights:
 
